@@ -1,5 +1,5 @@
 
-# Restaurant WhatsApp Automation — n8n
+# Restaurant WhatsApp Automation 
 
 **An n8n automation system for restaurant ordering, WhatsApp customer support, delivery updates, promotional broadcasts, and WhatsApp inbox management.**
 
